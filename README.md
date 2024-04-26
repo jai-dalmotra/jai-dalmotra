@@ -111,22 +111,22 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaidalmotra&show_icons=true&locale=en&layout=compact" alt="jaidalmotra" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-dalmotra&show_icons=true&locale=en&layout=compact" alt="jai-dalmotra" /></div>  
 
 <br/>  
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jaidalmotra&show_icons=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jai-dalmotra&show_icons=true&count_private=true&hide_border=true" />
   </div>
   <br>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaidalmotra&" alt="jaidalmotra" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jai-dalmotra&" alt="jai-dalmotra" />
   </div>
   <br>
   <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=jaidalmotra" alt="jaidalmotra" />
+      <img src="https://github-profile-trophy.vercel.app/?username=jai-dalmotra" alt="jai-dalmotra" />
     </a>
   </div>
 </div>

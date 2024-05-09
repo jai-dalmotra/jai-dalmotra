@@ -1,3 +1,8 @@
+<div align="Center">
+  <b> I recently encountered some issues with my old GitHub account, but you can find my previous contributions and projects at https://github.com/jaidalmotra. <b></b>
+</div>
+
+
 <div align="center">
   <img src="https://github.com/jaidalmotra/jaidalmotra/blob/main/desktop.png" align="center" style="width: 50%; height: 10%;" />
 </div>

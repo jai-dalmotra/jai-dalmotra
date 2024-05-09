@@ -1,5 +1,5 @@
 <div align="Center">
-  <b> I recently encountered some issues with my old GitHub account, but you can find my previous contributions and projects at https://github.com/jaidalmotra. <b></b>
+  <b> I recently encountered some issues with my old GitHub account, but you can find my previous contributions and projects at https://github.com/jaidalmotra </b>
 </div>
 
 

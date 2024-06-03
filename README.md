@@ -7,10 +7,6 @@
   <img src="https://github.com/jaidalmotra/jaidalmotra/blob/main/desktop.png" align="center" style="width: 50%; height: 10%;" />
 </div>
 
-<div align="Center">
-  "I recently encountered some issues with my old GitHub account, but you can find my previous contributions and projects at https://github.com/jaidalmotra."
-</div>
-  
 
 ### <div align="center">Hello, tech enthusiasts! I'm Jai, a passionate Computer Engineering on a quest to unravel the endless possibilities at the intersection of technology and innovation.</div>  
   
@@ -138,6 +134,3 @@
   </div>
 </div>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xla82u5y7cc9i3vfwdazd4gmj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
-<br/>  
-<br>

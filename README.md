@@ -114,22 +114,22 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-dalmotra&show_icons=true&locale=en&layout=compact" alt="jai-dalmotra" /></div>  
+<div align="center"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jai-dalmotra&theme=radical&langs_count=10"> </p></div>  
 
 <br/>  
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jai-dalmotra&show_icons=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jai-dalmotra&show_icons=true&theme=radical&count_private=true" />
   </div>
   <br>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jai-dalmotra&" alt="jai-dalmotra" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jai-dalmotra&theme=radical&" alt="jai-dalmotra" />
   </div>
   <br>
   <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=jai-dalmotra" alt="jai-dalmotra" />
+      <img src="https://github-profile-trophy.vercel.app/?username=jai-dalmotra&&theme=radical" alt="jai-dalmotra" />
     </a>
   </div>
 </div>

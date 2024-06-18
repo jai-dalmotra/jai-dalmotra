@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="tumblr_68ff9eff3afa7fac802d591fb85dd2fe_a3f2dc5a_1280.png" align="center" style="width: 80%; height: 13%;" />
+  <img src="tumblr_68ff9eff3afa7fac802d591fb85dd2fe_a3f2dc5a_1280.png" align="center" style="width: 85%; height: 15%;" />
 </div>
 
 

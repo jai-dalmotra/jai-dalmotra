@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/jaidalmotra/jaidalmotra/blob/main/desktop.png" align="center" style="width: 50%; height: 10%;" />
+  <img src="tumblr_68ff9eff3afa7fac802d591fb85dd2fe_a3f2dc5a_1280.png" align="center" style="width: 80%; height: 15%;" />
 </div>
 
 

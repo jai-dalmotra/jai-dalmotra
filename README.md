@@ -1,10 +1,10 @@
 <div align="Center">
-  <b> I recently encountered some issues with my old GitHub account, but you can find my previous contributions and projects at https://github.com/jaidalmotra </b>
+  <b>I recently encountered some issues with my old GitHub account, but you can find my previous contributions and projects at https://github.com/jaidalmotra </b>
 </div>
 
 
 <div align="center">
-  <img src="tumblr_68ff9eff3afa7fac802d591fb85dd2fe_a3f2dc5a_1280.png" align="center" style="width: 85%; height: 10%;" />
+  <img src="tumblr_68ff9eff3afa7fac802d591fb85dd2fe_a3f2dc5a_1280.png" align="center" style="width: 85%; height: 12%;" />
 </div>
 
 

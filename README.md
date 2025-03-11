@@ -3,9 +3,9 @@
 </div>
 
 
-<div align="center">
+/*<div align="center">
   <img src="tumblr_68ff9eff3afa7fac802d591fb85dd2fe_a3f2dc5a_1280.png" align="center" style="width: 85%; height: 13%;" />
-</div>
+</div>*/
 
 
 ### <div align="center">Hello, tech enthusiasts! I'm Jai, a passionate Computer Engineering on a quest to unravel the endless possibilities at the intersection of technology and innovation.</div>  
